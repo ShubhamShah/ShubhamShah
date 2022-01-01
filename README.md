@@ -28,3 +28,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning Advanced Scalable Mirco Services </br>
 😄 Pronouns: He/Him </br>
 <h3>Summary</h3>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamShah&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShubhamShah&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShubhamShah&theme=nord_bright)
